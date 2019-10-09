@@ -1,3 +1,4 @@
+- Using the tab key to complete file paths allows you locate your commands quickly and will auto-fill or provide suggestions to you.
 - File paths are utilized for navigational purposes. To view files listed in a folder or a folder listed in another folder..it can be located by /. If ever unsure of a file’s path, you can use the command ‘realpath <file name>’
 - the home directory is the default when opening the terminal
 =======
