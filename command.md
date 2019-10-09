@@ -1,4 +1,4 @@
- -- the home directory is the default when opening the terminal
+ - the home directory is the default when opening the terminal
 	Cd ~ .. takes you to the home directory
  history allows you to edit, recall, rerun previous commands
 History ..
