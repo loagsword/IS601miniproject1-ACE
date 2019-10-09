@@ -1,5 +1,8 @@
 - File paths are utilized for navigational purposes. To view files listed in a folder or a folder listed in another folder..it can be located by /. If ever unsure of a file’s path, you can use the command ‘realpath <file name>’
 - the home directory is the default when opening the terminal
+=======
+ - the home directory is the default when opening the terminal
+>>>>>>> 76c4dc1c9a307f0545defaf0a386c059a8affd31
 	Cd ~ .. takes you to the home directory
  history allows you to edit, recall, rerun previous commands
 History ..
