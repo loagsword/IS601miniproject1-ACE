@@ -1,11 +1,9 @@
+- The up and arrows are useful when needing the move the cursor in the file/terminal. There are certain key combinations you can make that incorporate the curso.
 - Using the tab key to complete file paths allows you locate your commands quickly and will auto-fill or provide suggestions to you.
 - File paths are utilized for navigational purposes. To view files listed in a folder or a folder listed in another folder..it can be located by /. If ever unsure of a file’s path, you can use the command ‘realpath <file name>’
 - the home directory is the default when opening the terminal
-=======
- - the home directory is the default when opening the terminal
->>>>>>> 76c4dc1c9a307f0545defaf0a386c059a8affd31
 	Cd ~ .. takes you to the home directory
- history allows you to edit, recall, rerun previous commands
+- History allows you to edit, recall, rerun previous commands
 History ..
 - rm is used to remove or delete directories, subdirectories, and all the files it contains. Data within the files is not destroyed, however the file is no longer accessible. 
 Rm /home/.../… deletes the file by the pathname
