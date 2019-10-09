@@ -42,6 +42,6 @@ Cd ~ …. Takes you to that specific folder
 Cd - navigates previous directory
 	Ls ~ list all  file names
 ## Git Command Line Resources
-- This video is a youtube tutorial for git beginners and understanding the fundamentals of the command line [click here] (https://www.youtube.com/watch?v=HVsySz-h9r4).
-- Below is an image that outlines the basic command lines and how they should be written.
+- This video is a youtube tutorial for git beginners and understanding the fundamentals of the command line (https://www.youtube.com/watch?v=HVsySz-h9r4).
+- Below is an image that outlines the basic command lines and how they should be written .. source of immage: rubygarage.com.
  ![BasicCommands](https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg) 
