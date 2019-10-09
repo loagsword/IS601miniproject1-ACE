@@ -1,3 +1,5 @@
+- Pwd is used to print the current working directory 
+	It will print the full system path of the current directory 
 - cp is used to copy files and directories.
 Cp -a … archive files
 Cp -f … force copy by removing the destination file if needed
