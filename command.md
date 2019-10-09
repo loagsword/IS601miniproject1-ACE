@@ -1,3 +1,8 @@
+- cp is used to copy files and directories.
+Cp -a … archive files
+Cp -f … force copy by removing the destination file if needed
+Cp -r … copy an entire directory
+Cp -i … prompts you before overwriting the file
 - mkdir is used to create new directories (more than one directory can be specified). You can also create a parent directory with subdirectories 
 	Mkdir [directory name] … create new in the current directory
 	Mkdir ~/[directory name] … create new directory in home directory 
