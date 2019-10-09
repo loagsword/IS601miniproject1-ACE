@@ -1,3 +1,6 @@
+- mv is used to move one or more files/directories from one place to another
+	Mv <file >  <folder/directory> .. moves the file.
+	Mv <file> <file>.a … renames a file.
 - Pwd is used to print the current working directory 
 	It will print the full system path of the current directory 
 - cp is used to copy files and directories.
