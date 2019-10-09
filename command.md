@@ -1,4 +1,6 @@
- - history allows you to edit, recall, rerun previous commands
+ -- the home directory is the default when opening the terminal
+	Cd ~ .. takes you to the home directory
+ history allows you to edit, recall, rerun previous commands
 History ..
 - rm is used to remove or delete directories, subdirectories, and all the files it contains. Data within the files is not destroyed, however the file is no longer accessible. 
 Rm /home/.../… deletes the file by the pathname
