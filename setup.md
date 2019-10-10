@@ -1,6 +1,6 @@
 
 
-#How to set up Git
+#How to set up Git#
 
 
 To set up Git you'll need to do the following
@@ -18,22 +18,22 @@ To set up Git you'll need to do the following
          >$ git config --global.user.email " youremail"  
          >$ git config --global user.name "Yourusername"  
 
-          Confirm that you have set the Git username correctly:   
-          enter command:  
+      Confirm that you have set the Git username correctly:   
+      enter command:  
           >$ git config --global user.name
           > "yourusername"
-          Your terminal should look like
+      Your terminal should look like
 
 2. Get a GitHub Account
-         Sign up at[GitHub](https://github.com/)  
+         Sign up at [GitHub](https://github.com/)  
 
 
 3. Set up authentication between GitHub and Git  
 
-       Creating SSH keys provide access to a Git repository in Github without explicit login.   
-       To set up SSH authentication follow be below guide   
+    Creating SSH keys provide access to a Git repository in Github without explicit login.   
+    To set up SSH authentication follow be below guide   
 
-            (/images/createSSH.JPG)
+            (images/createSSH.JPG)
 
 You are all set!
 
