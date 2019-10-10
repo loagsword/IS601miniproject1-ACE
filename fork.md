@@ -8,14 +8,14 @@ Forking and cloning are Github features. A fork is a copy of a repository that a
 To create a fork for a project in GitHub, simply click the Fork button in the header of a repository. Once the process is complete, you'll be taken right to your forked copy of the project.    
 1.	On GitHub, navigate to the repository.
 2.	In the top-right corner of the page, click Fork.    
- ![](/images/fork.JPG)
+ ![](/images/fork.jpg)
 
  * Cloning   
   Step by step guide to clone a repository, go to the main page of the project to be cloned.
 1.	On GitHub, navigate to the main page of the repository.
 Note: If the repository is empty, you can manually copy the repository page's URL from your browser and skip to step four.
 2.	Under the repository name, click Clone or download.     
- ![](/images/clone.PNG)    
+ ![](/images/clone.png)    
   
 3.	To clone the repository using HTTPS, under "Clone with HTTPS", click 
 . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click   
