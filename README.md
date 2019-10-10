@@ -14,15 +14,8 @@ Emerald Umstead
 * [Usage of vi](/finishproject/commands1.md)   
 
 
-* GIT Tutorial
-    * [How to set up Git](/setup.md)
-    * [Git Branching](/branch.md)
-    * [Merge conflict](/conflict.md)
-    * [Resolve a merge Conflict](/resolve.md)
-    * [Forking Vs Cloning](/fork.md)
-    * [Pull Requests](/pullrequest.md)
-    * [Adding a collaborator to a Github Repo](/collab.md)
-
+* [GIT Tutorial](/tutorial.md)
+    
 
 * Sources
      * https://git-scm.com
