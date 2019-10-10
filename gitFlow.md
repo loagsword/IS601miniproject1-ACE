@@ -66,7 +66,7 @@ git pull
 ```
 
 
-##Git Status   
+## Git Status   
 The `git status` command displays the status of the working tree. It shows the which changes have been staged and which files are untracked. The command is useful in checking what's going on with git add and git commit.   
 
 Example   
@@ -75,5 +75,8 @@ Example
 
 
  ![](/images/status.JPG)  
+
+## Git Master Branch
+The git master branch is the repository's default branch. After cloning(downloading) a project from a remote server, the resulting local repository has a single local branch: the so-called "master" branch. master branch is the main working branch of a repository.  
 
 
