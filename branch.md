@@ -4,11 +4,11 @@ Git branching is a version control feature that allows you to make changes to yo
 * Adding a Branch  
 
   Run the following command to add a branch   
-	    > git -b mybranchname   
+              > git -b mybranchname   
 the command, **git -b mybranchname**, **-b** tells Git to create a new branch and name it **mybranchname**.   
 
 
   Run the following command to add a branch and checkout the new branch **checkout** switches to the newly created branch.   
-To verify you are on the new branch you just created, enter the command
-         > git status
+To verify you are on the new branch you just created, enter the command    
+               > git status
 
