@@ -22,3 +22,8 @@ Cp -i … prompts you before overwriting the file
 - mv is used to move one or more files/directories from one place to another
  Mv <file >  <folder/directory> .. moves the file.
  Mv <file> <file>.a … renames a file.
+## Rm 
+- rm is used to remove or delete directories, subdirectories, and all the files it contains. Data within the files is not destroyed, however the file is no longer accessible. 
+Rm /home/.../… deletes the file by the pathname
+Rm ./<file name> … deletes the file if it is in your current working directory
+
