@@ -33,8 +33,7 @@ To set up Git you'll need to do the following
 
     Creating SSH keys provide access to a Git repository in Github without explicit login.   
     To set up SSH authentication follow be below guide   
-
-          ![](/images/createSSH.JPG)
+    ![](/images/createSSH.JPG)
 
 You are all set!
 
