@@ -23,5 +23,5 @@ Emerald Umstead
      * https://help.github.com   
 
  
-* Changelog
+* [Changelog](/changelog.md)
 :
