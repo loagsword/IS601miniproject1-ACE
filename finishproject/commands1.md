@@ -5,7 +5,7 @@ Cd ~ takes you back to the home directory
 Cd ~ …. Takes you to that specific folder
 Cd - navigates previous directory
 Ls ~ list all  file names
-# Mkdir
+## Mkdir
 -mkdir is used to create new directories (more than one directory can be specified). You can also create a parent directory with subdirectories 
 Mkdir [directory name] … create new in the current directory
 Mkdir ~/[directory name] … create new directory in home directory 	
@@ -26,4 +26,6 @@ Cp -i … prompts you before overwriting the file
 - rm is used to remove or delete directories, subdirectories, and all the files it contains. Data within the files is not destroyed, however the file is no longer accessible. 
 Rm /home/.../… deletes the file by the pathname
 Rm ./<file name> … deletes the file if it is in your current working directory
-
+## History 
+- History allows you to edit, recall, rerun previous commands
+History ..
