@@ -66,5 +66,14 @@ git pull
 ```
 
 
+##Git Status   
+The `git status` command displays the status of the working tree. It shows the which changes have been staged and which files are untracked. The command is useful in checking what's going on with git add and git commit.   
+
+Example   
+
+ >$ git status   
+
+
+ ![](/images/status.JPG)  
 
 
