@@ -16,3 +16,6 @@ Cp -a … archive files
 Cp -f … force copy by removing the destination file if needed
 Cp -r … copy an entire directory
 Cp -i … prompts you before overwriting the file
+## Pwd 
+- Pwd is used to print the current working directory. It will print the full system path
+
