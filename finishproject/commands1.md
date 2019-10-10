@@ -32,4 +32,6 @@ History ..
 ## Home Directory 
 - the home directory is the default when opening the terminal
 Cd ~ .. takes you to the home directory
+## File Paths
+- File paths are utilized for navigational purposes. To view files listed in a folder or a folder listed in another folder..it can be located by /. If ever unsure of a file’s path, you can use the command ‘realpath <file name>’
 
