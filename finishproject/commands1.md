@@ -29,3 +29,7 @@ Rm ./<file name> … deletes the file if it is in your current working directory
 ## History 
 - History allows you to edit, recall, rerun previous commands
 History ..
+## Home Directory 
+- the home directory is the default when opening the terminal
+Cd ~ .. takes you to the home directory
+
