@@ -34,4 +34,5 @@ History ..
 Cd ~ .. takes you to the home directory
 ## File Paths
 - File paths are utilized for navigational purposes. To view files listed in a folder or a folder listed in another folder..it can be located by /. If ever unsure of a file’s path, you can use the command ‘realpath <file name>’
-
+## Tab Key 
+-Using the tab key to complete file paths allows you locate your commands quickly and will auto-fill or provide suggestions to you.
