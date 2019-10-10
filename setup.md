@@ -1,6 +1,6 @@
 
 
-#How to set up Git#
+# How to set up Git
 
 
 To set up Git you'll need to do the following
@@ -20,8 +20,9 @@ To set up Git you'll need to do the following
 
       Confirm that you have set the Git username correctly:   
       enter command:  
-          >$ git config --global user.name
-          > "yourusername"
+          >$ git config --global user.name   
+	  > "yourusername"   
+
       Your terminal should look like
 
 2. Get a GitHub Account
