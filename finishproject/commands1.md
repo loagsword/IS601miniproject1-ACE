@@ -10,3 +10,9 @@ Ls ~ list all  file names
 Mkdir [directory name] … create new in the current directory
 Mkdir ~/[directory name] … create new directory in home directory 	
 Mkdir -p … create parent directories with multiple directories nested within
+## Cp
+- cp is used to copy files and directories.
+Cp -a … archive files
+Cp -f … force copy by removing the destination file if needed
+Cp -r … copy an entire directory
+Cp -i … prompts you before overwriting the file
