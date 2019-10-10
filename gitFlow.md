@@ -8,5 +8,11 @@ A git repository is a collection of the files and folders within a project, alon
 git init
 ```
 
+## Git Clone
+`git clone` is used to create a copy of an existing local or remote repository to a local directory. It is useful for developers looking to have a working copy of a repository which can be edited separately from the main repository. The version controls of the clone are managed on the local repository.
+Example, 
+```
+git clone [repository clone address]
+```
 
-
+##
