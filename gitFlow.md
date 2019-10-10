@@ -28,6 +28,15 @@ $ git checkout newBranch
 ```
 The above command creates a new branch called newBranch and then checks out the created branch. This set of commands can also be achieved using `git checkout -b iss53`
 
+## Git Commit
+A `git commit` functions like taking a snapshot.  It saves the snapshot to the project history and completes the change-tracking process. Anything that has been staged with a `git add’ will become a part of the snapshot with `git commit`. When committing, use the `-m` option to add a description for the commit.
+Example:
+```
+git commit -m ‘added a new commit’
+```
+
+
+
 
 
 
