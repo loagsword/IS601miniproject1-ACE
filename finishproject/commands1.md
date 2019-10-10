@@ -18,4 +18,7 @@ Cp -r … copy an entire directory
 Cp -i … prompts you before overwriting the file
 ## Pwd 
 - Pwd is used to print the current working directory. It will print the full system path
-
+## Mv
+- mv is used to move one or more files/directories from one place to another
+ Mv <file >  <folder/directory> .. moves the file.
+ Mv <file> <file>.a … renames a file.
