@@ -36,3 +36,8 @@ Cd ~ .. takes you to the home directory
 - File paths are utilized for navigational purposes. To view files listed in a folder or a folder listed in another folder..it can be located by /. If ever unsure of a file’s path, you can use the command ‘realpath <file name>’
 ## Tab Key 
 -Using the tab key to complete file paths allows you locate your commands quickly and will auto-fill or provide suggestions to you.
+## Git Command Line Resouces
+- This video is a youtube tutorial for git beginners and understanding the fundamentals of the command line (https://www.youtube.com/watch?v=HVsySz-h9r4).
+-Below is an image that outlines the basic command lines and how they should be written .. source of immage: rubygarage.com.
+
+ ![BasicCommands](https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg)
