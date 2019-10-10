@@ -13,7 +13,7 @@ Pull requests are a mechanism for a developer to notify team members that they h
 4.	Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.    
  ![](/images/openpull.png)
 5.	Type a title and description for your pull request.   
- ![](/images/addpull.jnp)   
+ ![](/images/addpull.png)   
 
 6.	To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request, then click Draft Pull Request.   
-![](/images/createpull.jnp)
+![](/images/createpull.png)
