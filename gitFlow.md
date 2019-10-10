@@ -15,4 +15,11 @@ Example,
 git clone [repository clone address]
 ```
 
-##
+## Git Fork
+Creating a “fork” is producing a personal copy of someone else’s project. Forks act as a bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people’s projects better by offering your changes up to the original project. To fork a repository on GitHub, click the Fork button in the header of the repository. 
+![Git fork example](../images/gitfork.png)
+ 
+
+
+
+
