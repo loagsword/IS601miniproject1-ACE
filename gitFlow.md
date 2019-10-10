@@ -52,6 +52,12 @@ Example:
 git push origin master
 ```
 
+## Git Pull
+	The `git pull` command updates the local line of development with updates from its remote counterpart. This command is useful if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment. 
+Example:
+```
+git pull
+```
 
 
 
