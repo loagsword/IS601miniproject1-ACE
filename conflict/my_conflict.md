@@ -1,4 +1,9 @@
 
+<<<<<<< HEAD
 * Creating a conflict   
-* updating the conflict file  
+
+=======
+* Creating a conflict  
+
+>>>>>>> new_branch
 
