@@ -6,10 +6,10 @@ To resolve a merge conflict, you must manually edit the conflicted file to selec
 
 * You can resolve conflict on GitHub using the conflict editor. follow the below steps to resolve conflicts on GitHub   
 
-![Resolving a merge cnflict on GitHub](/https://help.github.com/en/articles/resolving-a-merge-conflict-on-github)   
+![Resolving a merge conflict on GitHub](/https://help.github.com/en/articles/resolving-a-merge-conflict-on-github)   
 
-* you can also resolve conflicts from the command line. see below  
-  1. Manually remove the conflicting line in my_conflict.md in the new_branch and Commit the changes in the new_branch   
+* you can also resolve conflicts from the command line. See below..   
+1. Manually remove the conflicting line in my_conflict.md in the new_branch and Commit the changes     
 
     >$ git checkout new_branch  
     >$ git add my_conflict.md   
