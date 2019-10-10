@@ -35,6 +35,12 @@ Example:
 git commit -m ‘added a new commit’
 ```
 
+## Git Merge
+`git merge` merges the lines of development together. This command is typically used to combine changes made on two distinct branches. For example, a developer would merge when they want to combine changes from a feature branch into the master branch for deployment.
+Example:
+```
+git merge branch1 branch2 
+```
 
 
 
