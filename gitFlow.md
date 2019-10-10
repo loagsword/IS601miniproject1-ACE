@@ -45,6 +45,12 @@ git merge branch1 branch2
 ## Git Checkout
 `git checkout` navigates between the branches created by git branch. Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
 
+## Git Push
+`git push`  is used for updating the remote repository with any commits that have been made locally to a branch.
+Example:
+```
+git push origin master
+```
 
 
 
