@@ -37,3 +37,13 @@
 13. Feature: Home Directory by Emerald
 14. Feature: Tab Key by Emerald
 15. Fix: Formatting by Emerald
+16. Task: Created gitflow page by Akinlolu
+17. Feature: Added Definition for Repository by Akinlolu
+18. Feature: Added Definition for Clone by Akinlolu
+19. Feature: Added Definition for Fork by Akinlolu
+20. Feature: Added Definition for Branch by Akinlolu
+21. Feature: Added Definition for Commit by Akinlolu
+22. Feature: Added Definition for Merge by Akinlolu
+23. Feature: Added Definition for Checkout by Akinlolu
+24. Feature: Added Definition for Push by Akinlolu
+25. Feature: Added Definition for Pull by Akinlolu
