@@ -46,4 +46,5 @@
 22. Feature: Added Definition for Merge by Akinlolu
 23. Feature: Added Definition for Checkout by Akinlolu
 24. Feature: Added Definition for Push by Akinlolu
-25. Feature: Added Definition for Pull by Akinlolu
+25. Feature: Added Definition for Pull by Akinlol
+26. Feature: Added description for gitFlow Workflow by Akinloluu
