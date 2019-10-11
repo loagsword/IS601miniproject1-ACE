@@ -10,5 +10,8 @@ Explaination of Git features and concepts
     * [Resolve a merge Conflict](/resolve.md)    
     * [Forking Vs Cloning](/fork.md)    
     * [Pull Requests](/pullrequest.md)   
-    * [Adding a collaborator to a Github Repo](/collab.md)  
-
+    * [Adding a collaborator to a Github Repo](/collab.md)
+ 
+### External Links
+Keeping a good Change log
+* [keep a changelog](https://keepachangelog.com/en/1.0.0/0
