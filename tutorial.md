@@ -14,4 +14,4 @@ Explaination of Git features and concepts
  
 ### External Links
 Keeping a good Change log
-* [keep a changelog](https://keepachangelog.com/en/1.0.0/0
+* [keep a changelog](https://keepachangelog.com/en/1.0.0/)
