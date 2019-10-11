@@ -4,7 +4,7 @@
 GitHub flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. _*GitFlow*_ is a branching model created by Vincent Driessen that allows developers to develop in parallel, by isolating new development from finished work. 
 To accomplish this, the project development structure is divided into five different classes of git branches: Feature branches, the develop branch, release branches, hotfixes, and the master. In the workflow, new development (e.g new features & non-emergency bug fixes) are built in the *feature branches*. Feature branches are branched off of the *develop branch*, and finished features and fixes are merged back into the develop branch when they’re ready for release. When it is time to make a release, a release branch is created off of develop and then revised and tested until it is ready for deployment. When the release is finished, the release branch is merged into master and also into develop too. This is to make sure that all changes made in the release branch are reflected in both the master branch and development branch.. 
 [insert image here]
-![Gitflow workflow](~/images/gitflow.png)
+![Gitflow workflow](../images/gitflow.png)
 
 
 ## Repositories
@@ -74,7 +74,7 @@ Example
  >$ git status   
 
 
- ![](/images/status.JPG)  
+ ![](../images/status.JPG)  
 
 ## Git Master Branch
 The git master branch is the repository's default branch. After cloning(downloading) a project from a remote server, the resulting local repository has a single local branch: the so-called "master" branch. master branch is the main working branch of a repository.  
