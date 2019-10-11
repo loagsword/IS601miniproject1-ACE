@@ -2,8 +2,8 @@
 
 ## First what is Git flow and gitFlow Workflow? 
 GitHub flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. _*GitFlow*_ is a branching model created by Vincent Driessen that allows developers to develop in parallel, by isolating new development from finished work. 
-To accomplish this, the project development structure is divided into five different classes of git branches: Feature branches, the develop branch, release branches, hotfixes, and the master. In the workflow, new development (e.g new features & non-emergency bug fixes) are built in the *feature branches*. Feature branches are branched off of the *develop branch*, and finished features and fixes are merged back into the develop branch when they’re ready for release. When it is time to make a release, a release branch is created off of develop and then revised and tested until it is ready for deployment. When the release is finished, the release branch is merged into master and also into develop too. This is to make sure that all changes made in the release branch are reflected in both the master branch and development branch.. 
-[insert image here]
+To accomplish this, the project development structure is divided into five different classes of git branches: Feature branches, the develop branch, release branches, hotfixes, and the master. In the workflow, new development (e.g new features & non-emergency bug fixes) are built in the *feature branches*. Feature branches are branched off of the *develop branch*, and finished features and fixes are merged back into the develop branch when they’re ready for release. When it is time to make a release, a release branch is created off of develop and then revised and tested until it is ready for deployment. When the release is finished, the release branch is merged into master and also into develop too. This is to make sure that all changes made in the release branch are reflected in both the master branch and development branch.
+]
 ![Gitflow workflow](/images/gitflow.png)
 
 
@@ -22,7 +22,8 @@ git clone [repository clone address]
 ```
 
 ## Git Fork
-Creating a “fork” is producing a personal copy of someone else’s project. Forks act as a bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people’s projects better by offering your changes up to the original project. To fork a repository on GitHub, click the Fork button in the header of the repository. 
+Creating a “fork” is producing a personal copy of someone else’s project. Forks act as a bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people’s projects better by offering your changes up to the original project. To fork a repository on GitHub, click the Fork button in the header of the repository.
+ 
 ![Git fork example](/images/gitfork.png)
  
 ## Git Branching
