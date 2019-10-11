@@ -1,5 +1,4 @@
  # Project change log
-
  1.	Task: Create a project Repository in Git hub by chisolum   
   2.	Feature:  Create file project.md and add Project description explaining how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company by Chisolum   
     2.1.	Feature: Add definition and examples of Status to gitFlow.md by Chisolum  
@@ -28,5 +27,13 @@
   4.13.	Task: uploaded settings.JPG by Chisolum  
   4.14.	Task: uploaded status.JPG by Chisolum
  5.	Fix: updated README.md added tutorial, usage of vi, gitFlow, changelog and sources sections by chisolum
-
-
+6. Feature: CD Command by Emerald
+7. Feature: Up/Down Arrows by Emerald
+8. Feature: MKDIR Command by Emerald
+9. Feature: Cp by Emerald
+10. Feature: Pwd by Emerald
+11. Feature: Mv by Emerald
+12. Feature: Rm by Emerald
+13. Feature: Home Directory by Emerald
+14. Feature: Tab Key by Emerald
+15. Fix: Formatting by Emerald
