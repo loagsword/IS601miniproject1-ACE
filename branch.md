@@ -1,23 +1,36 @@
 # Git Branching
 Git branching is a version control feature that allows you to make changes to your project without breaking your working code. Git branching feature is more important for collaboration projects, it allows you to verify changes made to the project and select which to add to the project.   
 
-* Adding a Branch  
+## Creating a Branch
 
-  Run the following command to add a branch   
-           
-	   >$ git -b mybranchname   
+ 	$ git -b newbranch 
+Adds a branch called `newbranch`.
 
-the command, **git -b mybranchname**, **-b** tells Git to create a new branch and name it **mybranchname**.   
-
-
-  Run the following command to add a branch and checkout the new branch   
-           
-	   >$ git -b mybranchname
-
-  **checkout** switches to the newly created branch.   
-To verify you are on the new branch you just created, enter the command    
-              
+	$ git checkout -b newbranch 
+Adds a branch  `newbranch` and checks it out.
+    
 	      >$ git status   
+Use to verify that you are on the new branch you just created.
 
+## Deleting a Branch 
 
+	$ git branch -d newbranch # 
+Deletes the local branch, only if you have already pushed and merged it with your remote branches.
 
+	$ git branch -D newbranch # 
+Deletes the branch regardless of its push and merge status.
+*NOTE:*
+The -d option is an alias for --delete.
+The -D option is an alias for --delete --force.
+
+## Deleting a Remote Branch
+	$ git push <remote_name> --delete <branch_name> 
+Deletes a remote branch.
+
+	$ git push <remote_name> :<branch_name>  
+Also deletes a remote branch.
+_NOTE:_ option can also be used to delete a “tag”.
+
+RESOURCES:
+1. [Create and manage git branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+2. [IN-depth gut-branching] (https://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
