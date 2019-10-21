@@ -1,4 +1,4 @@
-## IS601miniproject1-ACE
+## [IS601miniproject1-ACE](https://loagsword.github.io/git-notes/)
 Mini project 1 for Team ACE   
 
 **Team Members**
@@ -24,4 +24,5 @@ Emerald Umstead
 
  
 * [Changelog](/changelog.md)
-:
+
+Page Home: https://loagsword.github.io/git-notes/
