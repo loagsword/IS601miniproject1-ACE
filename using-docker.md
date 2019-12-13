@@ -21,6 +21,7 @@
   * `-t <tag name>` gives Docker a tag for the image 
   * The dot (or ".") told Docker to look for the Docker file in the current working directory. 
 
+* Rename a container with: `docker rename CONTAINER NEW_NAME`
 
 #### Run a custom image
 `$ docker run --name foo -d -p 8080:80 mynginx`<br>
